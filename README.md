@@ -1,6 +1,9 @@
 ### Hi there I'm Çağrı Emir 👋
 Computer Engineering Student  👨‍💻
 
+<img src="https://i.gifer.com/107Q.gif" height="180" style="vertical-align:top; margin:4px">
+
+
 <div id="badges">
   <a href="https://linkedin.com/in/bg-ertekin">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
